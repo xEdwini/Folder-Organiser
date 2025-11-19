@@ -23,9 +23,7 @@ cd Folder-Organiser
 
 
 # License
-
 MIT License
 
 # Author
-
 Edwin Alex Vinu
